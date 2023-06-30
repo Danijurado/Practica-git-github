@@ -1,4 +1,4 @@
-#Respuestas ejercicio 1
+# Respuestas ejercicio 1
 
 ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 

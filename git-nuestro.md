@@ -1,4 +1,4 @@
-#Oracion del Desarrollador
+# Oracion del Desarrollador
 
 *Git* nuestro que estás en los repos
 
